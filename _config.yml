@@ -2,6 +2,7 @@ name: Adbay
 favicon: null
 layout_spectrum: 0.25954615091905
 typography_spectrum: 0.7016946184448898
+title: adbay.com
 cta:
   domain: null
   bucket: null
